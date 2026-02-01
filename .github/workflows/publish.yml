@@ -35,7 +35,7 @@ jobs:
           platforms: linux/amd64,linux/arm64
 
       - name: Read versions.env
-        run: cat versions.env > $GIHUB_ENV
+        run: cat versions.env >> $GITHUB_ENV
 
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v6
