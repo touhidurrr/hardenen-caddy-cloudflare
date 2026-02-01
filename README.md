@@ -5,3 +5,5 @@ Docker Hardened Caddy + Caddy Cloudflare Plugin
 ```
 docker pull touhidurrr/hardenen-caddy-cloudflare
 ```
+
+Then follow this guide: https://hub.docker.com/hardened-images/catalog/dhi/caddy/guides
