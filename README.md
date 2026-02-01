@@ -1,7 +1,7 @@
-# hardened-caddy-cloudflare
-Docker Hardened Caddy + Caddy Cloudflare Plugin
+# Hardened Caddy Cloudflare
+Docker Hardened Caddy + Caddy Cloudflare Module
 
-## Usase
+## Usage
 ```
 docker pull touhidurrr/hardened-caddy-cloudflare
 ```
