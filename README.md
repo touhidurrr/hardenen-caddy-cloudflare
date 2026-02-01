@@ -1,5 +1,5 @@
 # Hardened Caddy Cloudflare
-Docker Hardened Caddy + Caddy Cloudflare Module
+Docker Hardened Caddy Image with Caddy Cloudflare Module
 
 ## Usage
 ```
